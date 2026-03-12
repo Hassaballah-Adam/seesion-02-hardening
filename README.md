@@ -1,0 +1,1 @@
+# Security Hardening Automation This script automates the remediation of insecure file permissions on Linux systems, focusing on the Access Control Matrix (ACM) and securing sensitive identity files like /etc/shadow.
