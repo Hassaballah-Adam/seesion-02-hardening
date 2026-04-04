@@ -1,0 +1,7 @@
+Running Infrastructure Audit...
+Timestamp: Sun Mar 29 03:13:57 AM UTC 2026
+User: root
+Network Confiq:
+    inet 10.0.2.15/24 metric 100 brd 10.0.2.255 scope global dynamic enp0s3
+    inet6 fd17:625c:f037:2:a00:27ff:feef:641c/64 scope global dynamic mngtmpaddr noprefixroute 
+    inet6 fe80::a00:27ff:feef:641c/64 scope link 
